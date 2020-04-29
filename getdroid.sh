@@ -1,8 +1,9 @@
 #!/bin/bash
-# GetDroid v1.2
+# GetDroid 
 # FUD Android Payload Generator and Listener
-# Coded by @unk_.n0wn
-# Github: https://github.com/one804/getdroid
+# Coded by @unkn-0wn
+# Website https://www.unkn0wn.in
+# Github: https://github.com/unkn-0wn/getdroid
 
 trap 'printf "\n";stop' 2
 
@@ -46,7 +47,7 @@ printf "  ╚██████╔╝███████╗   ██║   \e[1
 printf "   ╚═════╝ ╚══════╝   ╚═╝   \e[1;92m╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝  \e[0m\n"
 printf "\n"                                                              
 printf "\e[1;77m       .:.:\e[0m\e[1;93m FUD Android payload generator and listener \e[0m\e[1;77m:.:.\e[0m\n"                              
-printf "\e[1;93m               .:.:\e[0m\e[1;92m Coded by:\e[0m\e[1;77m@unk_.n0wn\e[0m \e[1;93m:.:.\e[0m\n"
+printf "\e[1;93m               .:.:\e[0m\e[1;92m Coded by:\e[0m\e[1;77m@unkn-0wn\e[0m \e[1;93m:.:.\e[0m\n"
 printf "\n"
 printf "            \e[101m:: Warning: Attacking targets without  ::\e[0m\n"
 printf "            \e[101m:: prior mutual consent is illegal!    ::\e[0m\n"
